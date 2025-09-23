@@ -4,6 +4,7 @@
 3.Transient Analysis
 4.DC Analysis: VTC Curve
 5.Swap NMOS and PMOS: Transient Analysis, VTC
+6.Layout
 
 1. A simple inverter inverts the logically high input to low output and vice versa.
  It is of immense significance in clock generation, generation of delays,
@@ -33,3 +34,13 @@ Schematic
 5. Swap of NMOS and PMOS
 
    <img width="1636" height="708" alt="image" src="https://github.com/user-attachments/assets/1d9beff6-f9f2-47d3-90c7-0f8871c62643" />
+
+6. Layout
+
+   <img width="679" height="494" alt="image" src="https://github.com/user-attachments/assets/cceb2476-9b7d-468e-84fc-3bf2a254b6ac" />
+
+Layout vs Schematic
+
+<img width="906" height="414" alt="image" src="https://github.com/user-attachments/assets/8615a68e-51ef-4513-9d66-15d961816fd8" />
+
+
