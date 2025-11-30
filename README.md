@@ -26,18 +26,13 @@ Schematic
 3.Transient Analysis
       Electrically symmetric inverter (Wp=4um; Wn=2um)
 
-<img width="1647" height="764" alt="image" src="https://github.com/user-attachments/assets/12f998a3-7b35-44f4-b615-734eb4052046" />
+<img width="1647" height="764" alt="image" src="https://github.com/user-attachments/assets/12f998a3-7b35-44f4-b615-734eb4052046" /
 
-     Inverter with stronger PMOS (Wp=8um; Wn=2um)
-     <img width="1517" height="681" alt="image" src="https://github.com/user-attachments/assets/a7b5d1ec-6ac1-4486-99b8-c62c0d01c3a4" />
-
-     Inverter with stronger NMOS (Wp=2um; Wn=2um)
-     <img width="1519" height="657" alt="image" src="https://github.com/user-attachments/assets/5bee6901-5899-4b9b-a089-321d8eaf5f00" />
-
-
-4.VTC curve
+4.VTC curve  
+Electrically symmetric inverter (Wp=4um; Wn=2um)
 
 <img width="1519" height="672" alt="image" src="https://github.com/user-attachments/assets/c9812bb0-f2a9-42f8-9c65-57ca983e4ded" />
+
 
 5. Swap of NMOS and PMOS : Transient analysis
 
