@@ -28,6 +28,15 @@ Schematic
 
 <img width="1647" height="764" alt="image" src="https://github.com/user-attachments/assets/12f998a3-7b35-44f4-b615-734eb4052046" /
 
+  Electrically symmetric inverter (Wp=8um; Wn=2um)
+
+  <img width="1517" height="681" alt="image" src="https://github.com/user-attachments/assets/0e397bf3-5609-4dfd-871f-857efcbb4de9" />
+
+  Inverter with stronger NMOS (Wp=2um; Wn=2um)
+
+  https://user-images.githubusercontent.com/59061427/123097658-f866f780-d44d-11eb-968a-53687020be36.PNG
+
+
 4.VTC curve  
 Electrically symmetric inverter (Wp=4um; Wn=2um)
 
