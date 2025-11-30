@@ -24,6 +24,7 @@ Schematic
    <img width="1447" height="668" alt="image" src="https://github.com/user-attachments/assets/77c7f692-a545-4f62-a140-076eee346788" />
 
 3.Transient Analysis
+      Inverter with stronger PMOS (Wp=8um; Wn=2um)
       
   <img width="1517" height="681" alt="image" src="https://github.com/user-attachments/assets/0e397bf3-5609-4dfd-871f-857efcbb4de9" />
 
